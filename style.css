@@ -1,4 +1,10 @@
+h2 {
+    color: blue;
+    padding-bottom: 10px;
+}
+
 body {
+    background-color: #4f4f4f;
     margin: 0;
     padding: 0;
     font-family: Arial, sans-serif;
